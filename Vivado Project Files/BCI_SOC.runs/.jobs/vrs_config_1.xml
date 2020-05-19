@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="version1_DMA_DATA_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DMA_DATA_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_FFT_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_FFT_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_xbar_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_xbar_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_stream_interconnect_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_stream_interconnect_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_axis_dwidth_converter_0_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_axis_dwidth_converter_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_CONFIG_DMA_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_CONFIG_DMA_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_DMA_CONFIG_2_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DMA_CONFIG_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_RELOAD_DMA_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_RELOAD_DMA_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_DMA_DATA_3_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DMA_DATA_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_DMA_DATA_1_synth_1"/>
+	</Run>
+	<Run Id="version1_fir_compiler_0_2_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_fir_compiler_0_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_DATA_DMA_2_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DATA_DMA_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_axis_dwidth_converter_0_2_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_axis_dwidth_converter_0_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_axis_dwidth_converter_0_1_synth_1"/>
+	</Run>
+	<Run Id="version1_axi_intc_0_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_axi_intc_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_rst_ps7_0_100M_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_rst_ps7_0_100M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_axi_gpio_0_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_axi_gpio_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_DATA_DMA_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DATA_DMA_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_DATA_DMA_2_synth_1"/>
+	</Run>
+	<Run Id="version1_RELOAD_DMA_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_RELOAD_DMA_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_RELOAD_DMA_1_synth_1"/>
+	</Run>
+	<Run Id="version1_fir_compiler_0_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_fir_compiler_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_fir_compiler_0_2_synth_1"/>
+	</Run>
+	<Run Id="version1_system_ila_0_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_system_ila_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_DMA_DATA_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DMA_DATA_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_DMA_DATA_1_synth_1"/>
+	</Run>
+	<Run Id="version1_stream_interconnect_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_stream_interconnect_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_FFT_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_FFT_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_FFT_1_synth_1"/>
+	</Run>
+	<Run Id="version1_axis_dwidth_converter_0_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_axis_dwidth_converter_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_axis_dwidth_converter_0_1_synth_1"/>
+	</Run>
+	<Run Id="version1_xbar_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_processing_system7_0_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_processing_system7_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_auto_pc_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="version1_DMA_CONFIG_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DMA_CONFIG_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_DMA_CONFIG_2_synth_1"/>
+	</Run>
+	<Run Id="version1_CONFIG_DMA_0_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_CONFIG_DMA_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_CONFIG_DMA_1_synth_1"/>
+	</Run>
+	<Run Id="version1_FFT_2_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_FFT_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_FFT_1_synth_1"/>
+	</Run>
+	<Run Id="version1_FFT_3_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_FFT_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_FFT_1_synth_1"/>
+	</Run>
+	<Run Id="version1_DMA_CONFIG_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DMA_CONFIG_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_DMA_CONFIG_2_synth_1"/>
+	</Run>
+	<Run Id="version1_axis_dwidth_converter_0_3_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_axis_dwidth_converter_0_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_axis_dwidth_converter_0_1_synth_1"/>
+	</Run>
+	<Run Id="version1_CONFIG_DMA_2_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_CONFIG_DMA_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_CONFIG_DMA_1_synth_1"/>
+	</Run>
+	<Run Id="version1_CONFIG_DMA_3_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_CONFIG_DMA_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_CONFIG_DMA_1_synth_1"/>
+	</Run>
+	<Run Id="version1_DMA_DATA_2_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DMA_DATA_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_DMA_DATA_1_synth_1"/>
+	</Run>
+	<Run Id="version1_fir_compiler_0_3_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_fir_compiler_0_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_fir_compiler_0_2_synth_1"/>
+	</Run>
+	<Run Id="version1_auto_pc_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_auto_pc_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_auto_pc_0_synth_1"/>
+	</Run>
+	<Run Id="version1_DATA_DMA_3_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DATA_DMA_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_DATA_DMA_2_synth_1"/>
+	</Run>
+	<Run Id="version1_fir_compiler_0_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_fir_compiler_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_fir_compiler_0_2_synth_1"/>
+	</Run>
+	<Run Id="version1_DMA_CONFIG_3_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DMA_CONFIG_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_DMA_CONFIG_2_synth_1"/>
+	</Run>
+	<Run Id="version1_RELOAD_DMA_2_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_RELOAD_DMA_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_RELOAD_DMA_1_synth_1"/>
+	</Run>
+	<Run Id="version1_RELOAD_DMA_3_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_RELOAD_DMA_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_RELOAD_DMA_1_synth_1"/>
+	</Run>
+	<Run Id="version1_DATA_DMA_1_synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_DATA_DMA_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="version1_DATA_DMA_2_synth_1"/>
+	</Run>
+	<Run Id="synth_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="version1_DMA_DATA_1_synth_1"/>
+		<Parent Id="version1_FFT_1_synth_1"/>
+		<Parent Id="version1_xbar_1_synth_1"/>
+		<Parent Id="version1_stream_interconnect_1_synth_1"/>
+		<Parent Id="version1_axis_dwidth_converter_0_1_synth_1"/>
+		<Parent Id="version1_CONFIG_DMA_1_synth_1"/>
+		<Parent Id="version1_DMA_CONFIG_2_synth_1"/>
+		<Parent Id="version1_RELOAD_DMA_1_synth_1"/>
+		<Parent Id="version1_DMA_DATA_3_synth_1"/>
+		<Parent Id="version1_fir_compiler_0_2_synth_1"/>
+		<Parent Id="version1_DATA_DMA_2_synth_1"/>
+		<Parent Id="version1_axis_dwidth_converter_0_2_synth_1"/>
+		<Parent Id="version1_axi_intc_0_0_synth_1"/>
+		<Parent Id="version1_rst_ps7_0_100M_0_synth_1"/>
+		<Parent Id="version1_axi_gpio_0_0_synth_1"/>
+		<Parent Id="version1_DATA_DMA_0_synth_1"/>
+		<Parent Id="version1_RELOAD_DMA_0_synth_1"/>
+		<Parent Id="version1_fir_compiler_0_0_synth_1"/>
+		<Parent Id="version1_system_ila_0_1_synth_1"/>
+		<Parent Id="version1_DMA_DATA_0_synth_1"/>
+		<Parent Id="version1_stream_interconnect_0_synth_1"/>
+		<Parent Id="version1_FFT_0_synth_1"/>
+		<Parent Id="version1_axis_dwidth_converter_0_0_synth_1"/>
+		<Parent Id="version1_xbar_0_synth_1"/>
+		<Parent Id="version1_processing_system7_0_1_synth_1"/>
+		<Parent Id="version1_auto_pc_0_synth_1"/>
+		<Parent Id="version1_DMA_CONFIG_0_synth_1"/>
+		<Parent Id="version1_CONFIG_DMA_0_synth_1"/>
+		<Parent Id="version1_FFT_2_synth_1"/>
+		<Parent Id="version1_FFT_3_synth_1"/>
+		<Parent Id="version1_DMA_CONFIG_1_synth_1"/>
+		<Parent Id="version1_axis_dwidth_converter_0_3_synth_1"/>
+		<Parent Id="version1_CONFIG_DMA_2_synth_1"/>
+		<Parent Id="version1_CONFIG_DMA_3_synth_1"/>
+		<Parent Id="version1_DMA_DATA_2_synth_1"/>
+		<Parent Id="version1_fir_compiler_0_3_synth_1"/>
+		<Parent Id="version1_auto_pc_1_synth_1"/>
+		<Parent Id="version1_DATA_DMA_3_synth_1"/>
+		<Parent Id="version1_fir_compiler_0_1_synth_1"/>
+		<Parent Id="version1_DMA_CONFIG_3_synth_1"/>
+		<Parent Id="version1_RELOAD_DMA_2_synth_1"/>
+		<Parent Id="version1_RELOAD_DMA_3_synth_1"/>
+		<Parent Id="version1_DATA_DMA_1_synth_1"/>
+	</Run>
+	<Run Id="impl_1" LaunchDir="C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="write_bitstream">
+		<Parent Id="synth_1"/>
+		<Parent Id="version1_DMA_DATA_1_synth_1"/>
+		<Parent Id="version1_FFT_1_synth_1"/>
+		<Parent Id="version1_xbar_1_synth_1"/>
+		<Parent Id="version1_stream_interconnect_1_synth_1"/>
+		<Parent Id="version1_axis_dwidth_converter_0_1_synth_1"/>
+		<Parent Id="version1_CONFIG_DMA_1_synth_1"/>
+		<Parent Id="version1_DMA_CONFIG_2_synth_1"/>
+		<Parent Id="version1_RELOAD_DMA_1_synth_1"/>
+		<Parent Id="version1_DMA_DATA_3_synth_1"/>
+		<Parent Id="version1_fir_compiler_0_2_synth_1"/>
+		<Parent Id="version1_DATA_DMA_2_synth_1"/>
+		<Parent Id="version1_axis_dwidth_converter_0_2_synth_1"/>
+		<Parent Id="version1_axi_intc_0_0_synth_1"/>
+		<Parent Id="version1_rst_ps7_0_100M_0_synth_1"/>
+		<Parent Id="version1_axi_gpio_0_0_synth_1"/>
+		<Parent Id="version1_DATA_DMA_0_synth_1"/>
+		<Parent Id="version1_RELOAD_DMA_0_synth_1"/>
+		<Parent Id="version1_fir_compiler_0_0_synth_1"/>
+		<Parent Id="version1_system_ila_0_1_synth_1"/>
+		<Parent Id="version1_DMA_DATA_0_synth_1"/>
+		<Parent Id="version1_stream_interconnect_0_synth_1"/>
+		<Parent Id="version1_FFT_0_synth_1"/>
+		<Parent Id="version1_axis_dwidth_converter_0_0_synth_1"/>
+		<Parent Id="version1_xbar_0_synth_1"/>
+		<Parent Id="version1_processing_system7_0_1_synth_1"/>
+		<Parent Id="version1_auto_pc_0_synth_1"/>
+		<Parent Id="version1_DMA_CONFIG_0_synth_1"/>
+		<Parent Id="version1_CONFIG_DMA_0_synth_1"/>
+		<Parent Id="version1_FFT_2_synth_1"/>
+		<Parent Id="version1_FFT_3_synth_1"/>
+		<Parent Id="version1_DMA_CONFIG_1_synth_1"/>
+		<Parent Id="version1_axis_dwidth_converter_0_3_synth_1"/>
+		<Parent Id="version1_CONFIG_DMA_2_synth_1"/>
+		<Parent Id="version1_CONFIG_DMA_3_synth_1"/>
+		<Parent Id="version1_DMA_DATA_2_synth_1"/>
+		<Parent Id="version1_fir_compiler_0_3_synth_1"/>
+		<Parent Id="version1_auto_pc_1_synth_1"/>
+		<Parent Id="version1_DATA_DMA_3_synth_1"/>
+		<Parent Id="version1_fir_compiler_0_1_synth_1"/>
+		<Parent Id="version1_DMA_CONFIG_3_synth_1"/>
+		<Parent Id="version1_RELOAD_DMA_2_synth_1"/>
+		<Parent Id="version1_RELOAD_DMA_3_synth_1"/>
+		<Parent Id="version1_DATA_DMA_1_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

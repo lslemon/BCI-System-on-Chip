@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Mar 15 16:05:13 2020
+# Process ID: 12272
+# Current directory: C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version2_stream_interconnect_fir_0_synth_1
+# Command line: vivado.exe -log version2_stream_interconnect_fir_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source version2_stream_interconnect_fir_0.tcl
+# Log file: C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version2_stream_interconnect_fir_0_synth_1/version2_stream_interconnect_fir_0.vds
+# Journal file: C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version2_stream_interconnect_fir_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source version2_stream_interconnect_fir_0.tcl -notrace

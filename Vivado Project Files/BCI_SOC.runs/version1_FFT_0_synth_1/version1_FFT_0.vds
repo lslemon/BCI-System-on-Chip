@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Mar 10 10:36:08 2020
+# Process ID: 24820
+# Current directory: C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_FFT_0_synth_1
+# Command line: vivado.exe -log version1_FFT_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source version1_FFT_0.tcl
+# Log file: C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_FFT_0_synth_1/version1_FFT_0.vds
+# Journal file: C:/Final_Year_Project/Architecture/BCI_SOC/vhdl/xilinxprj/BCI_SOC.runs/version1_FFT_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source version1_FFT_0.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP version1_FFT_0, cache-ID = f75d6d183ab7c035.
+config_ip_cache: Time (s): cpu = 00:00:05 ; elapsed = 00:00:08 . Memory (MB): peak = 405.551 ; gain = 20.387
+INFO: [Common 17-206] Exiting Vivado at Tue Mar 10 10:36:27 2020...
